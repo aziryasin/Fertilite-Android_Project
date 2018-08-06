@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">Fertilite</string>
-    <string name="api_key">af667d8b2335524b5ac9d379ff175ad040984166</string>
+    <string name="api_key">YOUR API KEY</string>
 </resources>
